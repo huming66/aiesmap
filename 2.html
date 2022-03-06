@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="style.css">
+<h1>This is my map</h1>
+<p>
+To make it easier to style the map responsively we do three things:
+</p>
+<ul>
+  <li>remove the width attribute from the iframe</li>
+  <li>add a containing element around it</li>
+  <li>Add CSS to make the map fit the container and then size the container</li>
+</ul>
+
+<div class="mapWrapper">
+  <h2>Google Maps</h2>
+  <iframe width="1000" height="800" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;aq=0&amp;sll=51.0447,-114.0719&amp;sspn=0.720496,0.896759&amp;ie=UTF8&amp;hq=&amp;ll=51.0647,-114.0919&amp;spn=0.011254,0.021307&amp;t=m&amp;z=17&amp;output=embed"></iframe>
+  <!-- <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=199+Chambers+Street,+New+York,+NY&amp;aq=0&amp;oq=199+ch&amp;sll=40.697488,-73.979681&amp;sspn=0.720496,0.896759&amp;ie=UTF8&amp;hq=&amp;hnear=199+Chambers+St,+New+York,+10007&amp;ll=40.717367,-74.012178&amp;spn=0.011254,0.021307&amp;t=m&amp;z=17&amp;output=embed"></iframe> -->
+
+<!--To change the default zoom level find above where it reads z=17 and change the 17 to another number with 1 being the whole world and 21 being as close as you can get.-->
+
+<!--
+This is part of what you get when you copy from Google Maps. It is a link back out to Google Maps. It is optional.-->
+<!-- <br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=199+Chambers+Street,+New+York,+NY&amp;aq=0&amp;oq=199+ch&amp;sll=40.697488,-73.979681&amp;sspn=0.720496,0.896759&amp;ie=UTF8&amp;hq=&amp;hnear=199+Chambers+St,+New+York,+10007&amp;ll=40.717367,-74.012178&amp;spn=0.011254,0.021307&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View on Google Maps</a></small> -->
+</div><!-- end mapWrapper -->
+
+<div class="mapWrapper">
+  <h2>Leaflet.js</h2>
+  <div id="map"></div>
+</div>

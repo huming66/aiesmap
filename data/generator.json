@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "AFG1",
+          "name": "APF Athabasca",
+          "owner": "Alberta Pacific Forest Industries",
+          "technology": "OTHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.85,
+            54.921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0de71c",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "AKE1",
+          "name": "McBride Lake Windfarm",
+          "owner": "ENMAX Energy Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.48121643066406,
+            49.61226021941074
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "ALS1",
+          "name": "Air Liquide Scotford #1",
+          "owner": "Air Liquide Canada Inc.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.09,
+            53.791
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "APS1",
+          "name": "ATCO Scotford Upgrader",
+          "owner": "ATCO Power Scotford Upgrader",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.08,
+            53.791
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0ff035",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "ARD1",
+          "name": "Ardenville Wind",
+          "owner": "TransAlta Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.43510389328002,
+            49.583742452254704
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BCR2",
+          "name": "Bear Creek 2",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.68,
+            55.07
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BCRK",
+          "name": "Bear Creek 1",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.68,
+            55.07
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BIG",
+          "name": "Bighorn Hydro",
+          "owner": "TransAlta Generation Partnership",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -116.3244116306305,
+            52.308193275049845
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BR3",
+          "name": "Battle River #3",
+          "owner": "ENMAX PPA Management Inc.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.13,
+            52.467
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BR4",
+          "name": "Battle River #4",
+          "owner": "ENMAX PPA Management Inc.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.13,
+            52.467
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BR5",
+          "name": "Battle River #5",
+          "owner": "ENMAX PPA Management Inc.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.13,
+            52.467
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BRA",
+          "name": "Brazeau Hydro",
+          "owner": "TransAlta Generation Partnership",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.37,
+            52.911
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#03fc13",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "BSR1",
+          "name": "Blackspring Ridge",
+          "owner": "EDF EN Canada Development Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.88314819335938,
+            50.13579214130229
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#04f614",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "BTR1",
+          "name": "Blue Trail Wind",
+          "owner": "TransAlta Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.45195889472961,
+            49.667961129810365
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "CAL1",
+          "name": "ENMAX Calgary Energy Centre",
+          "owner": "Calgary Energy Centre No. 2 Inc.",
+          "technology": "Combined Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.93,
+            51.18
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0ac6f5",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "CHIN",
+          "name": "Chin Chute",
+          "owner": "TransAlta Generation Partnership",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.34457671642303,
+            49.6755015946129
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#f70202",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "CMH1",
+          "name": "Medicine Hat #1",
+          "owner": "City of Medicine Hat",
+          "technology": "Combined Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.72017192840575,
+            50.04126582312201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "CNR5",
+          "name": "CNRL Horizon",
+          "owner": "Canadian Natural Resources Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.79,
+            57.335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#02f713",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "CR1",
+          "name": "Castle River #1",
+          "owner": "TransAlta Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.02690649032593,
+            49.51449618051634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#04ff00",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "CRR1",
+          "name": "Castle Rock Wind Farm",
+          "owner": "Castle Rock Ridge LP",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.96199703216553,
+            49.558124141995364
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#2afa00",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "CRE3",
+          "name": "Cowley Ridge",
+          "owner": "Canadian Hydro Developers, Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.10094618797302,
+            49.552754560295234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "DAI1",
+          "name": "DAI1 Daishowa",
+          "owner": "Daishowa-Marubeni Int. Ltd.",
+          "technology": "OTHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.19,
+            56.372
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "DKSN",
+          "name": "Dickson Dam",
+          "owner": "Algonquin Power Operating Trust",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.21308398246765,
+            52.054407032722786
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "DOWG",
+          "name": "Dow Hydrocarbon",
+          "owner": "Dow Chemical Canada ULC",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.17,
+            53.731
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "EAGL",
+          "name": "Whitecourt Power",
+          "owner": "TransAlta Generation Partnership",
+          "technology": "OTHER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.73401451110838,
+            54.16261927541254
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "EC04",
+          "name": "Foster Creek",
+          "owner": "Cenovus FCCL Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.53,
+            55.067
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "ENC1",
+          "name": "Cloverbar #1",
+          "owner": "Capital Power (Alberta) Limited Partners",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.36462616920471,
+            53.58712365551059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "ENC2",
+          "name": "Cloverbar #2",
+          "owner": "Capital Power (Alberta) Limited Partners",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.36493730545044,
+            53.587047231827476
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "ENC3",
+          "name": "Cloverbar #3",
+          "owner": "Capital Power (Alberta) Limited Partners",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.3652913570404,
+            53.586958070689185
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "FNG1",
+          "name": "Fort Nelson",
+          "owner": "Powerex Corp.",
+          "technology": "Combined Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.69065618515013,
+            58.65410697001912
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "GN1",
+          "name": "Genesee #1",
+          "owner": "Balancing Pool",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.30531978607178,
+            53.34433876246577
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "GN2",
+          "name": "Genesee #2",
+          "owner": "Balancing Pool",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.30253028869629,
+            53.34430033146748
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "GN3",
+          "name": "Genesee #3",
+          "owner": "Capital Power (G3) Limited Partnership",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.29965496063232,
+            53.344287521127036
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0af512",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "GWW1",
+          "name": "Soderglen Wind",
+          "owner": "Nexen Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.50293159484863,
+            49.52721399953014
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "HAL1",
+          "name": "Halkirk Wind Power Facility",
+          "owner": "Capital Power (Alberta) Limited Partners",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112,
+            52.3
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "HRM",
+          "name": "H.R. Milner",
+          "owner": "Milner Power Limited Partnership by its ",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.1,
+            54.006
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#04f60c",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "IEW1",
+          "name": "Summerview 1",
+          "owner": "TransAlta Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.79312515258789,
+            49.58734547034626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#05fa15",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "IEW2",
+          "name": "Summerview 2",
+          "owner": "TransAlta Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.74960899353027,
+            49.59585810840717
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "IOR1",
+          "name": "Mahkeses",
+          "owner": "Imperial Oil Limited",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.38,
+            54.637
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "JOF1",
+          "name": "Joffre #1",
+          "owner": "ATCO Power (J.V. with Nova)",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.55,
+            52.303
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "KH1",
+          "name": "Keephills #1",
+          "owner": "ENMAX Energy Corporation",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.44393634796143,
+            53.44908797071378
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "KH2",
+          "name": "Keephills #2",
+          "owner": "ENMAX Energy Corporation",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.44573879241943,
+            53.449701350333896
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "id": "KH3",
+          "name": "Keephills #3",
+          "owner": "TransAlta Generation Partnership",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.44764852523804,
+            53.450263607204406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#03fc35",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "KHW1",
+          "name": "Kettles Hill",
+          "owner": "Kettles Hill Wind Energy Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.82173895835876,
+            49.51563506857896
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "MKR1",
+          "name": "Muskeg River",
+          "owner": "Shell Canada Energy by its Managing Part",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.5,
+            57.252
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "MKRC",
+          "name": "MacKay River",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.9,
+            57.041
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "NEP1",
+          "name": "Ghost Pine",
+          "owner": "Ghost Pine Windfarm, LP",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.32,
+            51.889
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "NPC1",
+          "name": "NPC1 Denis St. Pierre",
+          "owner": "Northstone Power Corp.",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.63,
+            55.046
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "NX01",
+          "name": "Nexen Inc #1",
+          "owner": "EnCana Corporation",
+          "technology": "Combined Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.94,
+            51.191
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "NX02",
+          "name": "Nexen Inc #2",
+          "owner": "Nexen Inc.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.95,
+            56.405
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#04e1f1",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "OMRH",
+          "name": "CUPC Oldman River",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.89590740203857,
+            49.5609913890544
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#08f604",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "OWF1",
+          "name": "Oldman 2 Wind Farm 1",
+          "owner": "Oldman 2 Wind Farm Ltd.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.8429069519043,
+            49.585384014731375
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "PH1",
+          "name": "Poplar Hill #1",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.21,
+            55.338
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "PR1",
+          "name": "Primrose #1",
+          "owner": "Canadian Natural Resources Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.58,
+            54.774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "PW01",
+          "name": "BuckLake",
+          "owner": "Keyera Partnership",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.85,
+            53.018
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "RB1",
+          "name": "Rainbow #1",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.23,
+            58.447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "RB2",
+          "name": "Rainbow #2",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.23,
+            58.447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "RB3",
+          "name": "Rainbow #3",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.23,
+            58.447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "RB5",
+          "name": "Rainbow #5",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.23,
+            58.447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "RL1",
+          "name": "Rainbow Lake #1",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.23,
+            58.447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0a27ff",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "RYMD",
+          "name": "Raymond Reservoir",
+          "owner": "TransAlta Generation Partnership",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.69243240356445,
+            49.4070255740919
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0ff517",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "SCR2",
+          "name": "Suncor Magrath",
+          "owner": "Suncor Energy Products Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.94834733009338,
+            49.38607446211142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#10f42b",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "SCR3",
+          "name": "Suncor Chin Chute",
+          "owner": "Suncor Energy Products Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.32923984527588,
+            49.68828854994247
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SCR4",
+          "name": "Wintering Hills",
+          "owner": "Suncor Energy Products Inc.",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.54,
+            51.24
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SD3",
+          "name": "Sundance #3",
+          "owner": "ASTC Power Partnership",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.55319881439209,
+            53.506553807289855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SD4",
+          "name": "Sundance #4",
+          "owner": "ASTC Power Partnership",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.55279111862183,
+            53.507281208783766
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SD5",
+          "name": "Sundance #5",
+          "owner": "Capital Power PPA Management Inc.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.55362796783447,
+            53.50726844746162
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SD6",
+          "name": "Sundance #6",
+          "owner": "Capital Power PPA Management Inc.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.55279111862183,
+            53.508174491785596
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SH1",
+          "name": "Sheerness #1",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.79,
+            51.442
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SH2",
+          "name": "Sheerness #2",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.79,
+            51.442
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SHCG",
+          "name": "Shell Caroline",
+          "owner": "Shell Canada Limited",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.76022243499757,
+            51.96272611585332
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "ST1",
+          "name": "Sturgeon #1",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "GAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.2,
+            54.939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "ST2",
+          "name": "Sturgeon #2",
+          "owner": "ATCO Power (Poplar/Rainbow)",
+          "technology": "GAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.2,
+            54.939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#08e710",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "TAB1",
+          "name": "Enmax Taber",
+          "owner": "ENMAX Energy Corporation",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.94661736488341,
+            49.69740813406556
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#08dbf7",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "TAY1",
+          "name": "Taylor Hydro",
+          "owner": "Canadian Hydro Developers, Inc.",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.89107143878937,
+            49.33428156257426
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#f60404",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "id": "TC01",
+          "name": "Carseland Cogen",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.58884811401367,
+            50.84166562283129
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "TC02",
+          "name": "Redwater Cogen",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "Cogeneration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.12,
+            53.816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BUL1",
+          "name": "BUL1 Bull Creek",
+          "owner": "",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.1,
+            52.5
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "BUL2",
+          "name": "BUL2 Bull Creek",
+          "owner": "",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.12,
+            52.52
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "id": "SD2",
+          "name": "Sundance #2",
+          "owner": "TransCanada Energy Ltd.",
+          "technology": "COAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.55358505249023,
+            53.50814896967538
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#ed0707",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "DRW1",
+          "name": "Drywood",
+          "technology": "Simple Cycle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.80492687225342,
+            49.31040717356184
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#0aadff",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "id": "BELLY",
+          "name": "BELLAMY RIVER CHUTE HYDRO",
+          "technology": "HYDRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.57683181762694,
+            49.31421218655584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "type": "generator",
+          "marker-color": "#00fa11",
+          "marker-size": "small",
+          "marker-symbol": "",
+          "id": "CRR2",
+          "name": "Castle Rock Wind Farm",
+          "technology": "WIND"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.95993709564208,
+            49.55787359784661
+          ]
+        }
+      }
+    ]
+  }
